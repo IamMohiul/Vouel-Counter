@@ -7,7 +7,6 @@ A simple JavaScript application that counts the number of vowels in a given text
 - [Features](#features)
 - [Usage](#usage)
 - [How it Works](#how-it-works)
-- [License](#license)
 
 ## Features
 
